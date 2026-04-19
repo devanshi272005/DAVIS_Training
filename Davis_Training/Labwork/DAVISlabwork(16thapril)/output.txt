@@ -1,3 +1,0 @@
-Alice,85,New York
-Charlie,92,Chicago
-Eve,78,Phoenix

@@ -1,5 +1,0 @@
-Alice,85,New York
-Bob,70,Los Angeles
-Charlie,92,Chicago
-David,60,Houston
-Eve,78,Phoenix
